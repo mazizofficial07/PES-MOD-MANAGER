@@ -27,4 +27,15 @@ game = CUSA20317 | eFootball PES 2021
 ; conflicts =                              ; peringatan bila keduanya ON
 ; games = CUSA20317                        ; kosong = semua game
 ; desc = Wasit meniup handball + replay kamera tangan.
-time = 1795186970
+time = 1795193491
+
+[handball]
+name = Handball
+type = plugin
+version = 1
+url = https://github.com/mazizofficial07/PES-MOD-MANAGER/releases/download/handball-1/handball_v1.tar
+size = 143360
+sha256 = ef2eb2b5e3878bc27ae9f11d10cdb353fe6ceed953509c27a541c785bea33555
+prx = GoldHEN/plugins/handball.prx
+keep = GoldHEN/handball/config.ini
+games = CUSA20317
