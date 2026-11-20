@@ -1,0 +1,30 @@
+; manifest.txt - daftar mod untuk Mod Manager. SETIAP mengubah file ini jalankan:
+;   python3 ../tools/mm_tool.py sign        (atau otomatis lewat "pack" / "revoke")
+; lalu unggah manifest.txt + manifest.sig ke repo GitHub.
+
+[app]
+title = PES 2021 Mod Manager
+notice = Selamat datang! Tekan X untuk memasang mod.
+; versi aplikasi minimal (naikkan bila PKG Mod Manager diperbarui)
+min_app = 1
+; game yang bisa dipilih user: CUSA | nama
+game = CUSA20317 | eFootball PES 2021
+; token yang dicabut ditambahkan otomatis oleh "mm_tool.py revoke"
+
+; ---------------------------------------------------------------------------
+; Bagian paket dibuat otomatis oleh "mm_tool.py pack". Contoh hasilnya:
+;
+; [handball]
+; name = Handball + Kamera Replay
+; type = plugin                 ; plugin = didaftarkan di plugins.ini, mod/data = file saja
+; version = 45
+; url = https://github.com/USER/REPO/releases/download/handball-45/handball_v45.tar
+; size = 131072
+; sha256 = (64 hex, diisi otomatis)
+; prx = GoldHEN/plugins/handball.prx
+; keep = GoldHEN/handball/config.ini       ; setelan user tidak ditimpa saat update
+; requires = stadium_server                ; dipasang otomatis lebih dulu
+; conflicts =                              ; peringatan bila keduanya ON
+; games = CUSA20317                        ; kosong = semua game
+; desc = Wasit meniup handball + replay kamera tangan.
+time = 1795186970
