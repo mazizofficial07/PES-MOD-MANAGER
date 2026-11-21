@@ -27,7 +27,7 @@ game = CUSA20317 | eFootball PES 2021
 ; conflicts =                              ; peringatan bila keduanya ON
 ; games = CUSA20317                        ; kosong = semua game
 ; desc = Wasit meniup handball + replay kamera tangan.
-time = 1795237451
+time = 1795237569
 
 [handball]
 name = Handball
@@ -117,3 +117,14 @@ part_size = 26214400
 games = CUSA20317
 desc = St Blue V7
 
+[st_blue_v8]
+name = St Blue V8
+type = data
+version = 1
+url = https://raw.githubusercontent.com/mazizofficial07/PES-MOD-MANAGER/main/paket/st_blue_v8/st_blue_v8_v1.tar
+size = 643471360
+sha256 = 1f1bc2db78dbe092630481a201cc43fbafbb9542fcacd25fa70614dc800c50c2
+parts = 25
+part_size = 26214400
+games = CUSA20317
+desc = St Blue V8
