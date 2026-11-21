@@ -27,7 +27,7 @@ game = CUSA20317 | eFootball PES 2021
 ; conflicts =                              ; peringatan bila keduanya ON
 ; games = CUSA20317                        ; kosong = semua game
 ; desc = Wasit meniup handball + replay kamera tangan.
-time = 1795254769
+time = 1795254834
 
 [handball]
 name = Handball
@@ -196,3 +196,16 @@ part_size = 26214400
 part_sha = 795fa9ae847cb12ed79269d0271a2c89179b34dad88ac4fa3fb52374a465a6fa
 games = CUSA18740
 desc = Scoreboard Sets Sevent V1
+
+[scoreboard_sets_files_sevent]
+name = Scoreboard Sets Files Sevent
+type = mod
+version = 1
+url = https://raw.githubusercontent.com/mazizofficial07/PES-MOD-MANAGER/main/paket/scoreboard_sets_files_sevent/scoreboard_sets_files_sevent_v1.tar
+size = 81920
+sha256 = 1d57d49f00da9484843642d9c0f419f22ddc7b0141a5a3fac03426bfc8b517c0
+parts = 1
+part_size = 26214400
+part_sha = 1d57d49f00da9484843642d9c0f419f22ddc7b0141a5a3fac03426bfc8b517c0
+games = CUSA18740
+desc = Scoreboard Sets Files Sevent V1
