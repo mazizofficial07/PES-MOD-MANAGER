@@ -27,7 +27,7 @@ game = CUSA20317 | eFootball PES 2021
 ; conflicts =                              ; peringatan bila keduanya ON
 ; games = CUSA20317                        ; kosong = semua game
 ; desc = Wasit meniup handball + replay kamera tangan.
-time = 1795243562
+time = 1795243623
 
 [handball]
 name = Handball
@@ -65,19 +65,6 @@ parts = 13
 part_size = 26214400
 games = CUSA20317
 desc = SB BLUE V1
-
-[afr_self]
-name = Afr Self
-type = plugin
-version = 1
-url = https://raw.githubusercontent.com/mazizofficial07/PES-MOD-MANAGER/main/paket/afr_self/afr_self_v1.tar
-size = 81920
-sha256 = 6d34099e1a78d2baa2e81c40470eb757c7c5d3385534336cd3cf18ac73ea1d89
-parts = 1
-part_size = 26214400
-prx = GoldHEN/plugins/afr_self.prx
-games = CUSA20317
-desc = Afr Self
 
 [stadium_server]
 name = Stadium Server
