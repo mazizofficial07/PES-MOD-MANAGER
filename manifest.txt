@@ -27,7 +27,7 @@ game = CUSA20317 | eFootball PES 2021
 ; conflicts =                              ; peringatan bila keduanya ON
 ; games = CUSA20317                        ; kosong = semua game
 ; desc = Wasit meniup handball + replay kamera tangan.
-time = 1795243685
+time = 1795243764
 
 [handball]
 name = Handball
@@ -129,3 +129,16 @@ part_sha = 43fd4ee7ee0573684019e0864ff19488265b9f8ca3aace50839ed70ae1f8472d
 prx = GoldHEN/plugins/scoreboard_sets.prx
 games = CUSA20317
 desc = Scoreboard Sets V1
+
+[scoreboard_sets_ini]
+name = Scoreboard Sets Ini
+type = mod
+version = 1
+url = https://raw.githubusercontent.com/mazizofficial07/PES-MOD-MANAGER/main/paket/scoreboard_sets_ini/scoreboard_sets_ini_v1.tar
+size = 10240
+sha256 = 4d579893902eaf15106884d7d8f39e9975126cf6b16bb42fa3f21a622297e101
+parts = 1
+part_size = 26214400
+part_sha = 4d579893902eaf15106884d7d8f39e9975126cf6b16bb42fa3f21a622297e101
+games = CUSA20317
+desc = Scoreboard Sets Ini V1
