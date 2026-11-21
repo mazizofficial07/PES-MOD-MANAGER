@@ -27,7 +27,7 @@ game = CUSA20317 | eFootball PES 2021
 ; conflicts =                              ; peringatan bila keduanya ON
 ; games = CUSA20317                        ; kosong = semua game
 ; desc = Wasit meniup handball + replay kamera tangan.
-time = 1795232888
+time = 1795233396
 
 [handball]
 name = Handball
@@ -41,20 +41,6 @@ prx = GoldHEN/plugins/handball.prx
 keep = GoldHEN/handball/config.ini
 games = CUSA20317
 desc = Handball v2
-
-[stadium_server]
-name = Stadium Server
-type = plugin
-version = 1
-url = https://raw.githubusercontent.com/mazizofficial07/PES-MOD-MANAGER/main/paket/stadium_server/stadium_server_v1.tar
-size = 808960
-sha256 = ef9f67d2389753a836b5a6ac483f910495ae617f68878a138ca0974c76875fe6
-parts = 1
-part_size = 26214400
-prx = GoldHEN/plugins/stadium_server.prx
-keep = GoldHEN/stadiums/config.ini,GoldHEN/stadiums/Bernabeu/AddOn/addon_config.ini,GoldHEN/stadiums/CampNou/AddOn/addon_config.ini
-games = CUSA20317
-desc = Stadium Server v1
 
 [db_blue1]
 name = Db Blue1
