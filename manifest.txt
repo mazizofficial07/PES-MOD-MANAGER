@@ -27,7 +27,7 @@ game = CUSA20317 | eFootball PES 2021
 ; conflicts =                              ; peringatan bila keduanya ON
 ; games = CUSA20317                        ; kosong = semua game
 ; desc = Wasit meniup handball + replay kamera tangan.
-time = 1795254834
+time = 1795255046
 
 [handball]
 name = Handball
@@ -209,3 +209,16 @@ part_size = 26214400
 part_sha = 1d57d49f00da9484843642d9c0f419f22ddc7b0141a5a3fac03426bfc8b517c0
 games = CUSA18740
 desc = Scoreboard Sets Files Sevent V1
+
+[7_s15]
+name = 7 S15
+type = data
+version = 1
+url = https://raw.githubusercontent.com/mazizofficial07/PES-MOD-MANAGER/main/paket/7_s15/7_s15_v1.tar
+size = 318853120
+sha256 = 517e9c2b5badd64c7f3ff7085f6458b89852acfb231e674eb2e8515de435fd63
+parts = 13
+part_size = 26214400
+part_sha = abb1989bf7835b3d869b375072022279d0d981088c43c17b78b64100482f786c,07c957642b4ce19a23b941b31cb75ea4bab5786048146ab7a4199003ca5d68ba,6b7da1ef4c2eb7bdad3cdbc01a80c79315d51c29973b44ea6e589dc25167dad7,d21a38a804b6c204ed224f7db43c2306bdc344fe36a8dd37444a5128660bbb54,87d138d2e63fd0df128e85b9532d77dbc090f881a01073a74586957bbdfbe3e5,e6acec35404d7d99ebddc5ec18434c51cc6ac205ac3ee505edbc879d43959414,0833eb968ffe7e921adb70f78c7fc071abb50d933abf7675ed468cb27a2f2930,575dfbf9c41e98316d0672b8ee6e2943f757c2f62dcf0a33b35542c46e4c08d4,30deac73f4bc2112116608fb0c965647ae3f02e965b1db708b55e69b29bc4196,e2710e2256f7298051b08df4c3c28f13c0c27af5e5bc4ed733c727253773763f,af076b75bda2f5ee80d62d734465d5492a000824193abea80b213f1a09007d64,4cf996ae7b13d7a4caee67166d676e88803bf1d4be7492f8281a01d70c515491,671b90c2dc1d1d73d87dd37e1a11d36fa830ce7c5b2a55488b0df80a243fb456
+games = CUSA18740
+desc = scoreboard_777
