@@ -27,7 +27,7 @@ game = CUSA20317 | eFootball PES 2021
 ; conflicts =                              ; peringatan bila keduanya ON
 ; games = CUSA20317                        ; kosong = semua game
 ; desc = Wasit meniup handball + replay kamera tangan.
-time = 1795329087
+time = 1795337473
 
 [handball]
 name = Handball
@@ -42,19 +42,6 @@ part_sha = a6564546af5d3b3829c9f05590f0ac7be97aed228063a8f99e5bf60a643b2b1b
 prx = GoldHEN/plugins/handball.prx
 games = CUSA20317
 desc = Handball v3
-
-[db_blue1]
-name = Db Blue1
-type = data
-version = 2
-url = https://raw.githubusercontent.com/mazizofficial07/PES-MOD-MANAGER/main/paket/db_blue1/db_blue1_v2.tar
-size = 7106560
-sha256 = 87f8e0e4c28c8b7d7eeea33171168a0ecabcb31661f7c19e0d1ad8f853aa76ee
-parts = 1
-part_size = 26214400
-part_sha = 87f8e0e4c28c8b7d7eeea33171168a0ecabcb31661f7c19e0d1ad8f853aa76ee
-games = CUSA20317
-desc = DB BLUE V2
 
 [sb_blue_v1]
 name = Sb Blue V1
