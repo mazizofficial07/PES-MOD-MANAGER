@@ -27,7 +27,7 @@ game = CUSA20317 | eFootball PES 2021
 ; conflicts =                              ; peringatan bila keduanya ON
 ; games = CUSA20317                        ; kosong = semua game
 ; desc = Wasit meniup handball + replay kamera tangan.
-time = 1795402998
+time = 1795403168
 
 [handball]
 name = Handball
@@ -46,13 +46,13 @@ desc = Handball v3
 [stadium_server]
 name = Stadium Server
 type = plugin
-version = 10
-url = https://raw.githubusercontent.com/mazizofficial07/PES-MOD-MANAGER/main/paket/stadium_server/stadium_server_v10.tar
+version = 11
+url = https://raw.githubusercontent.com/mazizofficial07/PES-MOD-MANAGER/main/paket/stadium_server/stadium_server_v11.tar
 size = 798720
-sha256 = 75ecd9926ebd524a5ad8280f4ebe6c594141735a51163bdef6addb1437c06922
+sha256 = 8496938980e584e961716e142d55436d570bdca040af568bbe9f62e2394324bf
 parts = 1
 part_size = 26214400
-part_sha = 75ecd9926ebd524a5ad8280f4ebe6c594141735a51163bdef6addb1437c06922
+part_sha = 8496938980e584e961716e142d55436d570bdca040af568bbe9f62e2394324bf
 prx = GoldHEN/plugins/stadium_server.prx
 games = CUSA20317
 desc = Add-On Stadium
