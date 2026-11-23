@@ -27,7 +27,7 @@ game = CUSA20317 | eFootball PES 2021
 ; conflicts =                              ; peringatan bila keduanya ON
 ; games = CUSA20317                        ; kosong = semua game
 ; desc = Wasit meniup handball + replay kamera tangan.
-time = 1795427093
+time = 1795427181
 
 [handball]
 name = Handball
@@ -210,13 +210,13 @@ desc = Add-On Logo
 [entrance]
 name = Entrance
 type = plugin
-version = 5
-url = https://raw.githubusercontent.com/mazizofficial07/PES-MOD-MANAGER/main/paket/entrance/entrance_v5.tar
+version = 6
+url = https://raw.githubusercontent.com/mazizofficial07/PES-MOD-MANAGER/main/paket/entrance/entrance_v6.tar
 size = 1013760
-sha256 = ef8d7f0a3e9b9323500189e8fb8c728daa019c41f8c650f890e835907bf84ca5
+sha256 = 63c68fa0646b12b39da4f43d8579763aa363e4afe202b20edd08a719b07ace9a
 parts = 1
 part_size = 26214400
-part_sha = ef8d7f0a3e9b9323500189e8fb8c728daa019c41f8c650f890e835907bf84ca5
+part_sha = 63c68fa0646b12b39da4f43d8579763aa363e4afe202b20edd08a719b07ace9a
 prx = GoldHEN/plugins/entrance.prx
 games = CUSA20317
 desc = Add-On Entrance
