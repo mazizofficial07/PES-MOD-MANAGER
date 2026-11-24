@@ -27,7 +27,7 @@ game = CUSA20317 | eFootball PES 2021
 ; conflicts =                              ; peringatan bila keduanya ON
 ; games = CUSA20317                        ; kosong = semua game
 ; desc = Wasit meniup handball + replay kamera tangan.
-time = 1795534007
+time = 1795534053
 
 [handball]
 name = Handball
@@ -266,12 +266,12 @@ desc = Add-On Stadium Server Sevent
 [handball_sevent_mod]
 name = Handball Sevent Mod
 type = data
-version = 1
-url = https://raw.githubusercontent.com/mazizofficial07/PES-MOD-MANAGER/main/paket/handball_sevent_mod/handball_sevent_mod_v1.tar
+version = 2
+url = https://raw.githubusercontent.com/mazizofficial07/PES-MOD-MANAGER/main/paket/handball_sevent_mod/handball_sevent_mod_v2.tar
 size = 30720
-sha256 = 116d53353560de6151b7bbfa49df80306781c91bb538fea66133ed0264ec1b2f
+sha256 = 39f8e82ad0086f21be5fba5073866e969c85d5d014061c8246be870cd88a81bd
 parts = 1
 part_size = 26214400
-part_sha = 116d53353560de6151b7bbfa49df80306781c91bb538fea66133ed0264ec1b2f
+part_sha = 39f8e82ad0086f21be5fba5073866e969c85d5d014061c8246be870cd88a81bd
 games = CUSA18740
 desc = Add-On Handball Sevent
