@@ -27,7 +27,7 @@ game = CUSA20317 | eFootball PES 2021
 ; conflicts =                              ; peringatan bila keduanya ON
 ; games = CUSA20317                        ; kosong = semua game
 ; desc = Wasit meniup handball + replay kamera tangan.
-time = 1795624811
+time = 1795624963
 
 [handball]
 name = Handball
@@ -316,3 +316,16 @@ part_size = 26214400
 part_sha = 8f0d8518589bf7680b06de4b9e0907d1089b1eab2b8faa4df432e195a70f1e47,6f986eaa1b0ee195e625778cfede6db20ddec247ada800a6a4ae5f9c01d86414,ba6a6c032ac458f954a679504883406176f4fdf4e5d6f3e9f63157b969eafa22,ce4bbae91bd10ced4f207bea9704cd082dd97109e649de481ca175fbac38ec91
 games = CUSA20317
 desc = Add-On Entrance
+
+[scoreboard_epl]
+name = Scoreboard Epl
+type = data
+version = 1
+url = https://raw.githubusercontent.com/mazizofficial07/PES-MOD-MANAGER/main/paket/scoreboard_epl/scoreboard_epl_v1.tar
+size = 43745280
+sha256 = 97a3ab9163b6d875dc48bfee4cd0439ce84ed2016cec7b62d0c55dd86cf92d50
+parts = 2
+part_size = 26214400
+part_sha = f870fcd5d38e331d63ea2967f65e5b2fe2062c5499b69f82dee3c57c37bbfc31,10f40d816b31f512c5a2427951bacd38995d20d89e099c70846e197336a21620
+games = CUSA20317
+desc = Add-On Scoreboard
