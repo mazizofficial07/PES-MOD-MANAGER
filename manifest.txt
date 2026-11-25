@@ -27,7 +27,7 @@ game = CUSA20317 | eFootball PES 2021
 ; conflicts =                              ; peringatan bila keduanya ON
 ; games = CUSA20317                        ; kosong = semua game
 ; desc = Wasit meniup handball + replay kamera tangan.
-time = 1795604729
+time = 1795604969
 
 [handball]
 name = Handball
@@ -293,14 +293,14 @@ desc = Add-On Stadium
 [add_on_stadium]
 name = Add On Stadium
 type = data
-version = 1
-url = https://raw.githubusercontent.com/mazizofficial07/PES-MOD-MANAGER/main/paket/add_on_stadium/add_on_stadium_v1.tar
+version = 2
+url = https://raw.githubusercontent.com/mazizofficial07/PES-MOD-MANAGER/main/paket/add_on_stadium/add_on_stadium_v2.tar
 size = 227645440
-sha256 = f1d8a6d87eea82bca30eba5df65a691ee6e2276de12feb5ab0061c7f8487a86b
+sha256 = 839c0a412fa9e9dcab666bc29fee103c7d8bed42e4278c5a005d2fcbd9bfc6d5
 local = 1
 parts = 9
 part_size = 26214400
-part_sha = b7368231893a646d09118411ff9b8ba7addd374d6b5aa1994ecaf01294393391,9932955e3ca24f92f67ca81aa98ced4960f01f71ac497b3eb6a12cc9f410dd78,1a42fabec4650e41209fa66e46ac6f4249268b451aeaedf7ca0d3296971be064,ab45a874aaa9b41942159ef34793237c575cae3208564b3fe762262f81fc5290,f9a1f62f6fd79292042917c3fe1cf6c1c5cd9757c6a9c96fc650abae8ab83541,319d1999e5bb2d71d111f254d37eca36fc7ed9f1fe2f20a8c4aadb690141f13b,41f21819680b13f7869fdf230365d746ac637a6af886aa713b173f2f959536e6,2a9eab33658d2691d7727e1cdf210f8ead37d9f723e9934c61965f10315b35da,19c9b002ca5ca327e713c5ba57aaa9d0cf1bc64f9eb9e8dec49e5bcb5daeba17
+part_sha = 5986d3358f66a55b70e90380759a25b1e7675e145fd443076986effc8c839e3e,9932955e3ca24f92f67ca81aa98ced4960f01f71ac497b3eb6a12cc9f410dd78,1a42fabec4650e41209fa66e46ac6f4249268b451aeaedf7ca0d3296971be064,ab45a874aaa9b41942159ef34793237c575cae3208564b3fe762262f81fc5290,f9a1f62f6fd79292042917c3fe1cf6c1c5cd9757c6a9c96fc650abae8ab83541,319d1999e5bb2d71d111f254d37eca36fc7ed9f1fe2f20a8c4aadb690141f13b,41f21819680b13f7869fdf230365d746ac637a6af886aa713b173f2f959536e6,2a9eab33658d2691d7727e1cdf210f8ead37d9f723e9934c61965f10315b35da,19c9b002ca5ca327e713c5ba57aaa9d0cf1bc64f9eb9e8dec49e5bcb5daeba17
 games = CUSA20317
 desc = Add On Stadium
 
